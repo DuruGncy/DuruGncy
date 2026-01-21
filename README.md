@@ -1,3 +1,6 @@
+###Hello! 
+###You’ve just landed on the profile of someone who’s endlessly curious about how things work. Whether it’s data engineering workflows, AI-supported database technologies, or the backend infrastructure behind them.
+
 ### 🛠️ Technology Stack
 
 #### Languages & Backend
